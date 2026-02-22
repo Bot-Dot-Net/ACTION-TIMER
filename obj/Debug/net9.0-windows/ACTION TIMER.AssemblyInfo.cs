@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("FREE USE")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfab47d47d2592bf88ad695e3a5796d3329f5a6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1814e171346bdec5a42ec6922cc5bfdf540940eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ACTION TIMER")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ACTION TIMER")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
