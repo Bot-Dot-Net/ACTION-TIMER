@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <RootNamespace>ACTION_TIMER</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Copyright>FREE USE</Copyright>
+    <PackageIcon>Iconka-Christmas-Wreath-Clock.512.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="Iconka-Christmas-Wreath-Clock.512.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
